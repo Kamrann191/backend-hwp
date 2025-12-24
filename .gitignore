@@ -1,0 +1,25 @@
+# Sensitive configuration files
+config.local.php
+.env
+
+# Database credentials (if using separate files)
+credentials.php
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+error_log
+
+# Temporary files
+*.tmp
+*.temp
